@@ -25,3 +25,6 @@ config.json
 # Temp / test
 *.tmp
 *.bak
+
+#test files
+bridge.py
