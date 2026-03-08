@@ -1,0 +1,9 @@
+{
+  "n8n_base_url": "http://YOUR_N8N_HOST:18080",
+  "poll_endpoint": "/webhook/mac-job-poll",
+  "result_endpoint": "/webhook/mac-result",
+  "shared_secret": "REPLACE_WITH_RANDOM_SECRET",
+  "poll_interval_sec": 2,
+  "cursor_command": ["cursor", "agent", "acp"],
+  "workspace": "/path/to/your/workspace"
+}
